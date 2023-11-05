@@ -8,5 +8,10 @@ System.out.println("Hello to world");
 System.out.println(new Date());
 System.out.println("New line added");
     
-System.out.println("added new code ");}    
+System.out.println("added new code ");
+
+        Student s = new Student();
+        s.createStudentObj();
+
+}    
 }

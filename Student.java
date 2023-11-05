@@ -1,7 +1,11 @@
 
 public class Student {
 
-    public static void main(String[] args) {
-        System.out.println("Student class");
+    public Student(){
+        System.out.println("student object created");
+
+    }
+    public void createStudentObj(){
+        System.out.println("Hi from student ");
     }
 }
