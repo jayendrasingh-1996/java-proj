@@ -6,6 +6,6 @@ public class Main{
     {
 System.out.println("Hello to world");
 System.out.println(new Date());
-
+System.out.println("New line added");
     }    
 }
